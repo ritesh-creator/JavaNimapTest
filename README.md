@@ -1,2 +1,2 @@
-I uses to vscode for this projectpl
+IDLE Used VsCode
 please import all the necessary import
